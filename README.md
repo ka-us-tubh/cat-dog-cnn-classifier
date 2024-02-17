@@ -22,7 +22,7 @@ Transfer learning involves leveraging pre-trained models trained on large datase
 
 ## Files Included
 
-1. `cnn_architecture.png`:Jupyter file for training the CNN classifier and evaluation of the trained model.
+1. `cat-dog cnn.ipynb`:Jupyter file for training the CNN classifier and evaluation of the trained model.
 2. `README.md`: Documentation file explaining the project and how to use it.
 
 ## Dependencies
