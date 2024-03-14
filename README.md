@@ -32,7 +32,6 @@ This project requires the following Python libraries:
 - TensorFlow (for deep learning)
 - Keras (high-level neural networks API)
 - NumPy (for numerical computations)
-- OpenCV (for image processing)
 
 You can install the dependencies using `pip`:
 
