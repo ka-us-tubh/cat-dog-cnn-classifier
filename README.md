@@ -36,7 +36,7 @@ This project requires the following Python libraries:
 You can install the dependencies using `pip`:
 
 ```
-pip install tensorflow keras numpy opencv-python
+pip install tensorflow keras numpy
 ```
 
 ## Note
